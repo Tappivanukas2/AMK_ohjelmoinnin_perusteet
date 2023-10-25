@@ -1,0 +1,7 @@
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/viikkotehtava4.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/rebuild_cache.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/list_install_components.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/install.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/install/local.dir
+C:/Users/OMISTAJA/Desktop/Ohjelmoinnin perusteet/viikkotehtava4/build/CMakeFiles/install/strip.dir
